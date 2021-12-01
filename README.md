@@ -9,7 +9,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 
 | Day                                                                                                     | Part One | Part Two |
 | ------------------------------------------------------------------------------------------------------- | :------: | :------: |
-| ✔ [Day 1: Sonar Sweep](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_01)       |       |    🌟   |
+| ✔ [Day 1: Sonar Sweep](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_01)       |    🌟   |    🌟   |
 | ✔ [Day 2: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_02)       |       |        |
 | ✔ [Day 3: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_03)       |       |        |
 | ✔ [Day 4: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_04)       |       |        |
