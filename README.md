@@ -12,7 +12,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 1: Sonar Sweep](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_01)       |    🌟   |    🌟   |
 | ✔ [Day 2: Drive!](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_02)       |   🌟    |    🌟    |
 | ✔ [Day 3: Binary Diagnostic](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_03)       |    🌟   |    🌟    |
-| ✔ [Day 4: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_04)       |       |        |
+| ✔ [Day 4: Giant Squid](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_04)       |   🌟    |    🌟    |
 | ✔ [Day 5: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_05)       |       |        |
 | ✔ [Day 6: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_06)       |       |        |
 | ✔ [Day 7: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_07)       |       |        |
