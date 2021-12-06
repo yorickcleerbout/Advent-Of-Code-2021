@@ -14,7 +14,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 3: Binary Diagnostic](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_03)       |    🌟   |    🌟    |
 | ✔ [Day 4: Giant Squid](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_04)       |   🌟    |    🌟    |
 | ✔ [Day 5: Hydrothermal Venture](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_05)       |   🌟    |    🌟    |
-| ✔ [Day 6: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_06)       |       |        |
+| ✔ [Day 6: Lanternfish](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_06)       |    🌟   |    🌟    |
 | ✔ [Day 7: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_07)       |       |        |
 | ✔ [Day 8: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_08)       |       |        |
 | ✔ [Day 9: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_09)       |       |        |
