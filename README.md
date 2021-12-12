@@ -19,7 +19,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 8: Seven Segment Search](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_08)       |    🌟   |    🌟    |
 | ✔ [Day 9: Smoke Basin](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_09)       |     🌟  |     🌟   |
 | ✔ [Day 10: Syntax Scoring](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_10)       |    🌟   |   🌟     |
-| ✔ [Day 11: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_11)       |       |        |
+| ✔ [Day 11: Dumbo Octopus](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_11)       |    🌟   |    🌟    |
 | ✔ [Day 12: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_12)       |       |        |
 | ✔ [Day 13: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_13)       |       |        |
 | ✔ [Day 14: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_14)       |       |        |
