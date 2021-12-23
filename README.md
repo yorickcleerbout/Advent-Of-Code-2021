@@ -28,7 +28,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 17: Trick Shot](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_17)       |    🌟   |    🌟    |
 | ✔ [Day 18: Snailfish](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_18)       |    🌟   |    🌟    |
 | ✔ [Day 19: Beacon Scanner](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_19)       |   🌟    |   🌟     |
-| ✔ [Day 20: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_20)       |       |        |
+| ✔ [Day 20: Trench Map](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_20)       |    🌟   |     🌟   |
 | ✔ [Day 21: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_21)       |       |        |
 | ✔ [Day 22: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_22)       |       |        |
 | ✔ [Day 23: TBD](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_23)       |       |        |
