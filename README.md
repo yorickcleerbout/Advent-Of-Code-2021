@@ -33,5 +33,5 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 22: Reactor Reboot](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_22)       |    🌟   |    🌟    |
 | ✔ [Day 23: Amphipod](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_23)       |   🌟    |    🌟    |
 | ✔ [Day 24: Arithmetic Logic Unit](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_24)       |   🌟    |    🌟    |
-| ✔ [Day 25: Sea Cucumber](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_25)       |   ❌    |    ❌    |
+| ❌ [Day 25: Sea Cucumber](https://github.com/yorickcleerbout/Advent-Of-Code-2021/tree/main/Day_25)       |   ❌    |    ❌    |
 
